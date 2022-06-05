@@ -1,0 +1,15 @@
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/obj/Debug/net5.0/new_d.csprojAssemblyReference.cache
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/obj/Debug/net5.0/new_d.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/obj/Debug/net5.0/new_d.AssemblyInfoInputs.cache
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/obj/Debug/net5.0/new_d.AssemblyInfo.cs
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/obj/Debug/net5.0/new_d.csproj.CoreCompileInputs.cache
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/bin/Debug/net5.0/new_d.deps.json
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/bin/Debug/net5.0/new_d.runtimeconfig.json
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/bin/Debug/net5.0/new_d.runtimeconfig.dev.json
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/bin/Debug/net5.0/new_d.dll
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/bin/Debug/net5.0/ref/new_d.dll
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/bin/Debug/net5.0/new_d.pdb
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/obj/Debug/net5.0/new_d.dll
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/obj/Debug/net5.0/ref/new_d.dll
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/obj/Debug/net5.0/new_d.pdb
+/Users/jannabel/Desktop/Myprojects/c#/piscine/new_d/obj/Debug/net5.0/new_d.genruntimeconfig.cache
